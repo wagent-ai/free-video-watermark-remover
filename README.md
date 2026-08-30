@@ -1,18 +1,54 @@
-<p align="center"> <a href="https://w-agent.xyz/"> <img src="https://w-agent.xyz/w-agent-logo-white.svg" alt="W-Agent Logo" width="120" /> </a> </p> <h1 align="center"> 🧽 W-Agent — Free AI Video & Image Watermark Remover </h1>
+<p align="center">
+  <a href="https://w-agent.xyz/">
+    <img
+      src="https://w-agent.xyz/w-agent-logo-white.svg"
+      alt="W-Agent Logo"
+      width="150"
+    />
+  </a>
+</p>
+
+<h1 align="center">
+  W-Agent — Free AI Video & Image Watermark Remover
+</h1>
 
 <p align="center">
-  <b>Remove watermarks, subtitles, logos, text, and unwanted overlays from videos & images with AI.</b>
+  <b>Remove watermarks, subtitles, logos, text, and unwanted objects from videos & images with AI.</b>
 </p>
 
 <p align="center">
+  <i>Free to use · No installation · AI-powered · Video & Image</i>
+</p>
+
+<br />
+
+<p align="center">
   <a href="https://w-agent.xyz/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20W--Agent-Free%20Online-blue?style=for-the-badge" />
+    <img
+      src="./teaser_logo.gif"
+      alt="W-Agent AI Video Watermark Removal Demo 1"
+      width="426"
+    />
+  </a>
+  &nbsp;
+  <a href="https://w-agent.xyz/">
+    <img
+      src="./teaser_logo.gif"
+      alt="W-Agent AI Video Watermark Removal Demo 2"
+      width="426"
+    />
   </a>
 </p>
 
 <p align="center">
-  <b>Free to use · No installation · AI-powered · Video & Image</b>
+  <a href="https://w-agent.xyz/">
+    <img
+      src="https://img.shields.io/badge/Try%20W--Agent-Free%20Online-blue?style=for-the-badge"
+      alt="Try W-Agent Free Online"
+    />
+  </a>
 </p>
+
 
 ---
 
