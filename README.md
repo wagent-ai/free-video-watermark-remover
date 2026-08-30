@@ -27,7 +27,7 @@
     <img
       src="./teaser_logo.gif"
       alt="W-Agent AI Video Watermark Removal Demo 1"
-      width="426"
+      width="410"
     />
   </a>
   &nbsp;
@@ -35,7 +35,7 @@
     <img
       src="./teaser_logo.gif"
       alt="W-Agent AI Video Watermark Removal Demo 2"
-      width="426"
+      width="410"
     />
   </a>
 </p>
