@@ -1,4 +1,4 @@
-# ✨ W-Agent — Free AI Video & Image Watermark Remover
+<p align="center"> <a href="https://w-agent.xyz/"> <img src="https://w-agent.xyz/w-agent-logo-white.svg" alt="W-Agent Logo" width="120" /> </a> </p> <h1 align="center"> 🧽 W-Agent — Free AI Video & Image Watermark Remover </h1>
 
 <p align="center">
   <b>Remove watermarks, subtitles, logos, text, and unwanted overlays from videos & images with AI.</b>
@@ -192,21 +192,6 @@ This is especially useful when the watermark overlaps with:
 
 ---
 
-## 🌐 Try W-Agent Online
-
-<p align="center">
-  <a href="https://w-agent.xyz/">
-    <b>🚀 Launch W-Agent →</b>
-  </a>
-</p>
-
-<p align="center">
-  https://w-agent.xyz/
-</p>
-
-No installation required.
-
----
 
 ## ⭐ Support W-Agent
 
