@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Remove watermarks, subtitles, logos, text, and unwanted objects from videos & images with AI.</b>
+  <b>Remove watermarks, subtitles, logos, text, and unwanted overlays from videos & images with AI.</b>
 </p>
 
 <p align="center">
