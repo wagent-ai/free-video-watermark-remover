@@ -1,15 +1,5 @@
-<p align="center">
-  <a href="https://w-agent.xyz/">
-    <img
-      src="https://w-agent.xyz/w-agent-logo-white.svg"
-      alt="W-Agent Logo"
-      width="150"
-    />
-  </a>
-</p>
-
-<h1 align="center">
-  W-Agent — Free AI Video & Image Watermark Remover
+<h1 align="center"> 
+  <img src="./logo_gradient.svg" alt="W-Agent Logo" width="72" /> W-Agent — Free AI Video & Image Watermark Remover 
 </h1>
 
 <p align="center">
@@ -20,12 +10,21 @@
   <i>Free to use · No installation · AI-powered · Video & Image</i>
 </p>
 
+<p align="center">
+  <a href="https://w-agent.xyz/">
+    <img
+      src="https://img.shields.io/badge/Try%20W--Agent-Free%20Online-blue?style=for-the-badge"
+      alt="Try W-Agent Free Online"
+    />
+  </a>
+</p>
+
 <br />
 
 <p align="center">
   <a href="https://w-agent.xyz/">
     <img
-      src="./teaser_logo.gif"
+      src="./teaser_text.gif"
       alt="W-Agent AI Video Watermark Removal Demo 1"
       width="410"
     />
@@ -39,16 +38,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://w-agent.xyz/">
-    <img
-      src="https://img.shields.io/badge/Try%20W--Agent-Free%20Online-blue?style=for-the-badge"
-      alt="Try W-Agent Free Online"
-    />
-  </a>
-</p>
-
 
 ---
 
@@ -275,8 +264,6 @@ Please only upload and modify content that:
 * You have permission to edit.
 
 You are responsible for ensuring that your use complies with applicable copyright, privacy, and other laws.
-
-W-Agent is not affiliated with or endorsed by TikTok, YouTube, Instagram, or other third-party platforms.
 
 ---
 
